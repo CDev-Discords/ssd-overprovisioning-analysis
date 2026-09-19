@@ -1,5 +1,3 @@
-# ssd-overprovisioning-analysis
-
 # 🚀 Preservando SSDs en Tiempos de Crisis: El Experimento del Over-Provisioning (OP)
 
 > **¿Es el Over-Provisioning la clave para salvar las unidades de almacenamiento económicas frente a la escasez de componentes?**
