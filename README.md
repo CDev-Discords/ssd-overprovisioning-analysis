@@ -42,6 +42,7 @@ Para evaluar el impacto real del **Over-Provisioning**, hemos sometido a pruebas
 * 📄 **Carpeta Raíz (`/`)**: Documentación teórica, metodologías, explicaciones técnicas y análisis consolidados.
 * 📊 **`/Historial clínico Maxio`**: Capturas de pantalla, datos numéricos y gráficas de rendimiento del **Competidor 1 (Con OP)**.
 * 📊 **`/Historial clínico Realtek`**: Capturas de pantalla, datos numéricos y gráficas de rendimiento del **Competidor 2 (Sin OP)**.
+* * 📊 **`/Historial clínico CUSU`**: Capturas de pantalla, datos numéricos y gráficas de rendimiento del **Competidor 3 (Con OP)**.
 
 ---
 
