@@ -27,7 +27,7 @@ Para evaluar el impacto real del **Over-Provisioning**, hemos sometido a pruebas
 
 | Característica             | 🔵 Competidor 1    | 🔴 Competidor 2        | 🟢 Competidor 3        |
 | -------------------------- | ------------------ | ---------------------- | ---------------------- |
-| Modelo                     | KingSpec P4 120 GB | KingSpec P4 120 GB     | CUSU C300              |
+| Modelo                     | KingSpec P4 120 GB | KingSpec P4 120 GB     | CUSU C300 128GB             |
 | Fabricante de Controladora | Maxio              | Realtek                | Yestor                 |
 | Modelo de Controladora     | MAS1102B-B1C       | Raymx 1135T            | YS9085N                |
 | Tipo de Memoria NAND       | TLC Hynix 3Dv6     | TLC Hynix 3Dv6         | Micron 232L (N58R) QLC |
