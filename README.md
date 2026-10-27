@@ -25,13 +25,13 @@ Esta combinación pone en riesgo directo nuestros datos, acelerando la muerte pr
 
 Para evaluar el impacto real del **Over-Provisioning**, hemos sometido a pruebas extremas dos unidades idénticas en marca, modelo y capacidad base, diferenciándolas únicamente por la asignación de espacio sin formatear:
 
-| Característica | 🔵 Competidor 1 | 🔴 Competidor 2 |
-| :--- | :--- | :--- |
-| **Modelo** | KingSpec P4 120 GB | KingSpec P4 120 GB |
-| **Fabricante de Controladora** | Maxio | Realtek |
-| **Modelo de Controladora** | MAS1102B-B1C | Raymx 1135T |
-| **Tipo de Memoria NAND** | TLC Hynix 3Dv6 | TLC Hynix 3Dv6 |
-| **Over-Provisioning (OP)** | **25% Asignado** ⚙️ | **0% (Capacidad Total)** ❌ |
+| Característica             | 🔵 Competidor 1    | 🔴 Competidor 2        | 🟢 Competidor 3        |
+| -------------------------- | ------------------ | ---------------------- | ---------------------- |
+| Modelo                     | KingSpec P4 120 GB | KingSpec P4 120 GB     | CUSU C300              |
+| Fabricante de Controladora | Maxio              | Realtek                | Yestor                 |
+| Modelo de Controladora     | MAS1102B-B1C       | Raymx 1135T            | YS9085N                |
+| Tipo de Memoria NAND       | TLC Hynix 3Dv6     | TLC Hynix 3Dv6         | Micron 232L (N58R) QLC |
+| Over-Provisioning (OP)     | 25% Asignado ⚙️    | 0% (Capacidad Total) ❌ | 25% Asignado ⚙️        |
 
 > 💡 **¿Por qué esta prueba?** Al dejar un 25% de espacio sin asignar, se le otorga a la controladora un "margen de maniobra" exclusivo para ejecutar tareas pesadas de limpieza y nivelación sin saturar las celdas de memoria.
 
